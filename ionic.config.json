@@ -1,0 +1,7 @@
+{
+  "name": "tabsfmunoz",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
